@@ -2,7 +2,7 @@
 
 This is the personal academic and developer portfolio of Md Tamim Ahmed.
 
-Live site: https://fardinjahan1000-max.github.io
+Live site: https://mdtamimahmedfardin.github.io/
 
 ## Sections
 - About
