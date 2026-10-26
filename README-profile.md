@@ -52,6 +52,7 @@ An Arduino-based automatic plant watering system.
 ## 🏆 Certificates
 - EFAST 2026 Certificate — Eye Gaze Dynamics for ASD Detection
 - EFAST 2026 Certificate — GNN-Based Functional Brain Connectivity for ASD Detection using fMRI Data
+- IEEE COMPAS 2026 Certificate of Presentation — Autism Spectrum Disorder Classification from Image Datasets using Deep Learning Architectures for Early-Stage Detection
 
 ## 📫 Contact
 - Email: mdtamimahmedfardinid31@gmail.com
